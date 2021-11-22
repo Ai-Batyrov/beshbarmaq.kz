@@ -1,17 +1,17 @@
 .first_frame {
-    background: url(/img/home/image_wrap.png) no-repeat;
+    background: url(../img/home/image_wrap.png) no-repeat;
     background-position: right;
     height: 473px;
     transition: background-image 700ms ease-in-out;
 }
 
 .first_frame:hover {
-    background: url(/img/home/hover/image_wrap.png) no-repeat;
+    background: url(../img/home/hover/image_wrap.png) no-repeat;
     background-position: right;
 }
 
 .second_frame {
-    background: url(/img/home/image_wrap_2.png) no-repeat;
+    background: url(../img/home/image_wrap_2.png) no-repeat;
     background-position: left;
     display: flex;
     align-items: center;
@@ -21,12 +21,12 @@
 }
 
 .second_frame:hover {
-    background: url(/img/home/hover/image_wrap_2.png) no-repeat;
+    background: url(../img/home/hover/image_wrap_2.png) no-repeat;
     background-position: left;
 }
 
 .third_frame {
-    background: url(/img/home/image_wrap_3.png) no-repeat;
+    background: url(../img/home/image_wrap_3.png) no-repeat;
     background-position: right;
     display: flex;
     align-items: center;
@@ -36,7 +36,7 @@
 }
 
 .third_frame:hover {
-    background: url(/img/home/hover/image_wrap_3.png) no-repeat;
+    background: url(../img/home/hover/image_wrap_3.png) no-repeat;
     background-position: right;
 }
 
@@ -103,15 +103,15 @@ h1 {
     }
 
     .first_frame {
-        background: url("/img/home/hover/image_wrap.png") center no-repeat;
+        background: url("../img/home/hover/image_wrap.png") center no-repeat;
     }
 
     .second_frame {
-        background: url("/img/home/hover/image_wrap_2.png") center no-repeat;
+        background: url("../img/home/hover/image_wrap_2.png") center no-repeat;
     }
 
     .third_frame {
-        background: url("/img/home/hover/image_wrap_3.png") center no-repeat;
+        background: url("../img/home/hover/image_wrap_3.png") center no-repeat;
     }
 
     h1 {
@@ -156,7 +156,7 @@ h1 {
     }
 
     .third_frame {
-        background: url("/img/home/hover/image_wrap_3.png") center no-repeat;
+        background: url("../img/home/hover/image_wrap_3.png") center no-repeat;
     }
 
     h1 {

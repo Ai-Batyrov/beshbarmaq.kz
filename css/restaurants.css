@@ -56,12 +56,12 @@ p, .discription {
 /* card_1 styling */
 #card_1 {
     box-shadow: 2px 2px 20px rgba(23, 233, 224, 0.3);
-    background: url(/img/restaurants/wrap/image_wrap_1.png);
+    background: url(../img/restaurants/wrap/image_wrap_1.png);
     transition: 400ms ease all;
 }
 
 #card_1:hover {
-    background: url(/img/restaurants/hover/image_wrap_1.png);
+    background: url(../img/restaurants/hover/image_wrap_1.png);
 }
 
 #card_1:hover p{
@@ -71,12 +71,12 @@ p, .discription {
 /* card_2 styling */
 #card_2 {
     box-shadow: 2px 2px 20px rgba(0, 118, 191, 0.3);
-    background: url(/img/restaurants/wrap/image_wrap_2.png);
+    background: url(../img/restaurants/wrap/image_wrap_2.png);
     transition: 400ms ease all;
 }
 
 #card_2:hover {
-    background: url(/img/restaurants/hover/image_wrap_2.png);
+    background: url(../img/restaurants/hover/image_wrap_2.png);
 }
 
 #card_2:hover p{
@@ -86,12 +86,12 @@ p, .discription {
 /* card_3 styling */
 #card_3 {
     box-shadow: 2px 2px 20px rgba(255, 56, 56, 0.3);
-    background: url(/img/restaurants/wrap/image_wrap_3.png);
+    background: url(../img/restaurants/wrap/image_wrap_3.png);
     transition: 400ms ease all;
 }
 
 #card_3:hover {
-    background: url(/img/restaurants/hover/image_wrap_3.png);
+    background: url(../img/restaurants/hover/image_wrap_3.png);
 }
 
 #card_3:hover p{
@@ -101,7 +101,7 @@ p, .discription {
 /* card_4 styling */
 #card_4 {
     box-shadow: 2px 2px 20px rgba(166, 74, 201, 0.3);
-    background: url(/img/restaurants/wrap/image_wrap_4.png);
+    background: url(../img/restaurants/wrap/image_wrap_4.png);
     transition: 400ms ease all;
 }
 
@@ -116,12 +116,12 @@ p, .discription {
 /* card_5 styling */
 #card_5 {
     box-shadow: 2px 2px 20px rgba(233, 128, 116, 0.3);
-    background: url(/img/restaurants/wrap/image_wrap_5.png);
+    background: url(../img/restaurants/wrap/image_wrap_5.png);
     transition: 400ms ease all;
 }
 
 #card_5:hover {
-    background: url(/img/restaurants/hover/image_wrap_5.png);
+    background: url(../img/restaurants/hover/image_wrap_5.png);
 }
 
 #card_5:hover p{
@@ -131,12 +131,12 @@ p, .discription {
 /* card_6 styling */
 #card_6 {
     box-shadow: 2px 2px 20px rgba(255, 207, 0, 0.3);
-    background: url(/img/restaurants/wrap/image_wrap_6.png);
+    background: url(../img/restaurants/wrap/image_wrap_6.png);
     transition: 400ms ease all;
 }
 
 #card_6:hover {
-    background: url(/img/restaurants/hover/image_wrap_6.png);
+    background: url(../img/restaurants/hover/image_wrap_6.png);
 }
 
 #card_6:hover p{

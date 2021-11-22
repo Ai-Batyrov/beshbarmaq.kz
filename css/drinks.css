@@ -67,7 +67,7 @@ p {
 }
 
 #image_wrap_1 {
-    background: url("/img/drinks/wrap/image_wrap_1.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_1.png") center no-repeat;
 }
 
 #card_1:hover {
@@ -90,11 +90,11 @@ p {
 
 #image_wrap_2 {
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_2.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_2.png") center no-repeat;
 }
 
 #card_2:hover #image_wrap_2 {
-    background: url("/img/drinks/wrap/hover/image_wrap2.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap2.png") center no-repeat;
 }
 
 /* card_3 styling */
@@ -109,11 +109,11 @@ p {
 
 #image_wrap_3{
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_3.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_3.png") center no-repeat;
 }
 
 #card_3:hover #image_wrap_3 {
-    background: url("/img/drinks/wrap/hover/image_wrap_2.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap_2.png") center no-repeat;
 }
 
 /* card_4 styling */
@@ -127,11 +127,11 @@ p {
 
 #image_wrap_4 {
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_4.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_4.png") center no-repeat;
 }
 
 #card_4:hover #image_wrap_4 {
-    background: url("/img/drinks/wrap/hover/image_wrap-3.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap-3.png") center no-repeat;
 }
 
 /* card_5 styling */
@@ -146,11 +146,11 @@ p {
 
 #image_wrap_5 {
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_5.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_5.png") center no-repeat;
 }
 
 #card_5:hover #image_wrap_5 {
-    background: url("/img/drinks/wrap/hover/image_wrap-4.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap-4.png") center no-repeat;
 }
 
 /* card_6 styling */
@@ -164,11 +164,11 @@ p {
 
 #image_wrap_6 {
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_6.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_6.png") center no-repeat;
 }
 
 #card_6:hover #image_wrap_6 {
-    background: url("/img/drinks/wrap/hover/image_wrap-5.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap-5.png") center no-repeat;
 }
 
 /* card_7 styling */
@@ -183,11 +183,11 @@ p {
 
 #image_wrap_7 {
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_7.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_7.png") center no-repeat;
 }
 
 #card_7:hover #image_wrap_7 {
-    background: url("/img/drinks/wrap/hover/image_wrap-6.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap-6.png") center no-repeat;
 }
 
 /* card_8 styling */
@@ -201,11 +201,11 @@ p {
 
 #image_wrap_8 {
     transition: 400ms ease all;
-    background: url("/img/drinks/wrap/image_wrap_8.png") center no-repeat;
+    background: url("../img/drinks/wrap/image_wrap_8.png") center no-repeat;
 }
 
 #card_8:hover #image_wrap_8 {
-    background: url("/img/drinks/wrap/hover/image_wrap-7.png") center no-repeat;
+    background: url("../img/drinks/wrap/hover/image_wrap-7.png") center no-repeat;
 }
 
 @media only screen and (max-width: 1024px) {

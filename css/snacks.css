@@ -70,7 +70,7 @@ p {
 }
 
 #image_wrapper_1 {
-    background: url("/img/snacks/image_wrap_1.png");
+    background: url("../img/snacks/image_wrap_1.png");
 }
 
 #card_1_wrapper:hover {
@@ -84,7 +84,7 @@ p {
 }
 
 #image_wrapper_2 {
-    background: url("/img/snacks/image_wrap_2.png");
+    background: url("../img/snacks/image_wrap_2.png");
 }
 
 #card_2_wrapper:hover {
@@ -98,7 +98,7 @@ p {
 }
 
 #image_wrapper_3 {
-    background: url("/img/snacks/image_wrap_3.png");
+    background: url("../img/snacks/image_wrap_3.png");
 }
 
 #card_3_wrapper:hover {
@@ -112,7 +112,7 @@ p {
 }
 
 #image_wrapper_4 {
-    background: url("/img/snacks/image_wrap_4.png");
+    background: url("../img/snacks/image_wrap_4.png");
 }
 
 #card_4_wrapper:hover {
@@ -126,7 +126,7 @@ p {
 }
 
 #image_wrapper_5 {
-    background: url("/img/snacks/image_wrap_5.png");
+    background: url("../img/snacks/image_wrap_5.png");
 }
 
 #card_5_wrapper:hover {
@@ -140,7 +140,7 @@ p {
 }
 
 #image_wrapper_6 {
-    background: url("/img/snacks/image_wrap_6.png");
+    background: url("../img/snacks/image_wrap_6.png");
 }
 
 #card_6_wrapper:hover {
